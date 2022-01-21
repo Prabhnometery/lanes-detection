@@ -10,3 +10,4 @@ canny = cv2.Canny(blur, 50, 150)
 # Display Image
 cv2.imshow('result', canny)
 cv2.waitKey(0)
+
